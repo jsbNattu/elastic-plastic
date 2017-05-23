@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PositionBasedDynamics
 
 This library supports the physically-based simulation of mechanical effects. In the last years position-based simulation methods have become popular in the graphics community. In contrast to classical simulation approaches these methods compute the position changes in each simulation step directly, based on the solution of a quasi-static problem. Therefore, position-based approaches are fast, stable and controllable which make them well-suited for use in interactive environments. However, these methods are generally not as accurate as force-based methods but still provide visual plausibility. Hence, the main application areas of position-based simulation are virtual reality, computer games and special effects in movies and commercials.
@@ -117,3 +118,6 @@ SIGGRAPH/Eurographics Symposium on Computer Animation, 2014
 * Tassilo Kugelstadt, Elmar Schoemer, "Position and Orientation Based Cosserat Rods", In Proceedings of ACM SIGGRAPH / EUROGRAPHICS Symposium on Computer Animation (SCA), 2016
 
 
+=======
+#elastic-plastic
+>>>>>>> cba67819e57394f74ae9944397d0ab720d70b34a
